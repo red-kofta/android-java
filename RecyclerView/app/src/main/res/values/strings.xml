@@ -1,0 +1,94 @@
+<resources>
+    <string name="app_name">MMO-информер</string>
+
+    <string-array name="games">
+        <item>Star Wars: The Old Republic</item>
+        <item>World of Warcraft</item>
+        <item>EVE Online</item>
+        <item>Destiny 2</item>
+        <item>Fallout 76</item>
+        <item>Linage 2</item>
+        <item>The Elder Scrolls Online</item>
+        <item>Lost Ark</item>
+        <item>Monster Hunter Online</item>
+        <item>Albion Online</item>
+    </string-array>
+
+    <string-array name="genre">
+        <item>Ролевая игра</item>
+        <item>Ролевая игра</item>
+        <item>MMOG, Космическая игра, Ролевая игра</item>
+        <item>Шутер от первого лица с элементами ММОРПГ</item>
+        <item>Ролевой боевик</item>
+        <item>MMORPG</item>
+        <item>Массовая многопользовательская ролевая онлайн-игра</item>
+        <item>MMORPG</item>
+        <item>Ролевой боевик</item>
+        <item>MMORPG</item>
+    </string-array>
+
+    <string-array name="year">
+        <item>21 октября 2008 года</item>
+        <item>23 ноября 2004</item>
+        <item>6 мая 2003 года</item>
+        <item>27 марта 2017</item>
+        <item>30 мая 2018 года</item>
+        <item>1 октября 2003</item>
+        <item>4 апреля 2014 года</item>
+        <item>4 декабря 2019</item>
+        <item>12 июня 2017 года</item>
+        <item>17 июля 2017 года</item>
+    </string-array>
+
+    <string-array name="developer">
+        <item>BioWare Austin</item>
+        <item>Blizzard Entertainment</item>
+        <item>CCP Games</item>
+        <item>Bungie</item>
+        <item>Bethesda Game Studios</item>
+        <item>NCSoft</item>
+        <item>ZeniMax Online Studios</item>
+        <item>Smilegate RPG</item>
+        <item>Capcom R&amp;D Division 2</item>
+        <item>ASandbox Interactive</item>
+    </string-array>
+
+    <string-array name="publisher">
+        <item>Electronic Arts</item>
+        <item>Blizzard Entertainment</item>
+        <item>SSI</item>
+        <item>Activision</item>
+        <item>Bethesda Softworks</item>
+        <item>NCSoft</item>
+        <item>Bethesda Softworks</item>
+        <item>Smilegate RPG</item>
+        <item>Capcom</item>
+        <item>Sandbox Interactive</item>
+    </string-array>
+
+    <string-array name="platforms">
+        <item>Windows</item>
+        <item>Windows, macOS</item>
+        <item>Windows, macOS</item>
+        <item>Windows, PlayStation 4, Xbox One, PlayStation 5, Xbox Series X/S</item>
+        <item>Windows, PlayStation 4, Xbox One</item>
+        <item>Windows</item>
+        <item>Windows, macOS, PlayStation 4, Xbox One, PlayStation 5, Xbox Series X/S</item>
+        <item>Windows</item>
+        <item>Windows, PlayStation 4, Xbox One</item>
+        <item>Windows, macOS, Linux, Android, iOS</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>Cюжетная многопользовательская ролевая онлайн-игра, разработанная подразделением BioWare в Остине, штат Техас, США. События в игре происходят через 300 лет после игр серии Knights of the Old Republic. Игра стала первой полностью озвученной ММО, на данный момент есть версии на английском, французском и немецком языках.</item>
+        <item>Массовая многопользовательская ролевая онлайн-игра, разработанная и издаваемая компанией Blizzard Entertainment. Действие World of Warcraft происходит в фэнтезийной вселенной Warcraft.</item>
+        <item>Массовая многопользовательская онлайн-игра с научно-фантастическим сюжетом, действие которой разворачивается в космосе.</item>
+        <item>Компьютерная игра в жанре шутера от первого лица с элементами MMORPG, разработанная американской компанией Bungie</item>
+        <item>Многопользовательская компьютерная игра в жанре Action/RPG, разработанная американской студией Bethesda Game Studios.</item>
+        <item>Компьютерная игра в жанре MMORPG для ОС Windows, изданная компанией NCSOFT.</item>
+        <item>Компьютерная игра в жанре MMORPG, разработанная ZeniMax Online Studios и изданная Bethesda Softworks.</item>
+        <item>Клиентская фэнтезийная массовая многопользовательская онлайн-игра (MMORPG) для PC, разработанная Tripod Studio и Smilegate RPG.</item>
+        <item>Компьютерная игра в жанре action/RPG, разработанная и выпущенная японской компанией Capcom.</item>
+        <item>Кроссплатформенная массовая многопользовательская ролевая онлайн-игра в средневековой стилистике, разработанная и выпущенная Sandbox Interactive.</item>
+    </string-array>
+</resources>

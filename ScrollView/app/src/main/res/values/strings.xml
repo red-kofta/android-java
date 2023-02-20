@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ScrollView</string>
+    <string name="header1">Спорт</string>
+    <string name="sport1">Есть какая-то тактика</string>
+    <string name="sportnews1">Победитель поделился секретом успеха</string>
+    <string name="sport2">Метро Люблино, работаем!</string>
+    <string name="sportnews2">Открылась новая секция единоборств в Москве</string>
+
+    <string name="header2">Путешествия</string>
+    <string name="travel1">Путешествия УАЗ-469</string>
+    <string name="travelnews1">В каких местах успел побывать отечественный внедорожник</string>
+    <string name="travel2">«Орёл и решка» всё?</string>
+    <string name="travelnews2">Телеканал «Пятница» прекращает производство проекта «Орёл и решка»</string>
+    
+    <string name="add">Добавить</string>
+    <string name="full_list">Весь список (20)</string>
+</resources>
